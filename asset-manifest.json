@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Carbon-Platform/static/css/main.4b53f037.css",
+    "main.js": "/Carbon-Platform/static/js/main.32ea798a.js",
+    "static/js/787.8dace3ee.chunk.js": "/Carbon-Platform/static/js/787.8dace3ee.chunk.js",
+    "static/media/c.jpg": "/Carbon-Platform/static/media/c.302eb76cb5c81d0fe973.jpg",
+    "index.html": "/Carbon-Platform/index.html",
+    "main.4b53f037.css.map": "/Carbon-Platform/static/css/main.4b53f037.css.map",
+    "main.32ea798a.js.map": "/Carbon-Platform/static/js/main.32ea798a.js.map",
+    "787.8dace3ee.chunk.js.map": "/Carbon-Platform/static/js/787.8dace3ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b53f037.css",
+    "static/js/main.32ea798a.js"
+  ]
+}
